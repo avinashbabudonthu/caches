@@ -1,3 +1,4 @@
 rootProject.name = 'caches'
 
 include "jcache-hazzelcast"
+include "hazzlecast-spring-boot"
